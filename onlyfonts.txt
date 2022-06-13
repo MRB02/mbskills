@@ -1,0 +1,48 @@
+font-family: source-sans-pro,
+sans-serif;
+font-weight: 400;
+font-style: normal;
+Source Sans Pro Black font-family: source-sans-pro,
+sans-serif;
+font-weight: 900;
+font-style: normal;
+Source Sans Pro Bold font-family: source-sans-pro,
+sans-serif;
+font-weight: 700;
+font-style: normal;
+Source Sans Pro Bold Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 700;
+font-style: italic;
+Source Sans Pro Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 400;
+font-style: italic;
+Source Sans Pro Light font-family: source-sans-pro,
+sans-serif;
+font-weight: 300;
+font-style: normal;
+Source Sans Pro Light Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 300;
+font-style: italic;
+Source Sans Pro Semibold font-family: source-sans-pro,
+sans-serif;
+font-weight: 600;
+font-style: normal;
+Source Sans Pro Semibold Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 600;
+font-style: italic;
+Source Sans Pro Black Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 900;
+font-style: italic;
+Source Sans Pro ExtraLight font-family: source-sans-pro,
+sans-serif;
+font-weight: 200;
+font-style: normal;
+Source Sans Pro ExtraLight Italic font-family: source-sans-pro,
+sans-serif;
+font-weight: 200;
+font-style: italic;
